@@ -1,0 +1,14 @@
+C:\Users\HUAWEI MateBook D16\Cse111Task1\obj\Debug\net10.0\Cse111Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI MateBook D16\Cse111Task1\obj\Debug\net10.0\Cse111Task1.AssemblyInfoInputs.cache
+C:\Users\HUAWEI MateBook D16\Cse111Task1\obj\Debug\net10.0\Cse111Task1.AssemblyInfo.cs
+C:\Users\HUAWEI MateBook D16\Cse111Task1\obj\Debug\net10.0\Cse111Task1.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI MateBook D16\Cse111Task1\bin\Debug\net10.0\Cse111Task1.exe
+C:\Users\HUAWEI MateBook D16\Cse111Task1\bin\Debug\net10.0\Cse111Task1.deps.json
+C:\Users\HUAWEI MateBook D16\Cse111Task1\bin\Debug\net10.0\Cse111Task1.runtimeconfig.json
+C:\Users\HUAWEI MateBook D16\Cse111Task1\bin\Debug\net10.0\Cse111Task1.dll
+C:\Users\HUAWEI MateBook D16\Cse111Task1\bin\Debug\net10.0\Cse111Task1.pdb
+C:\Users\HUAWEI MateBook D16\Cse111Task1\obj\Debug\net10.0\Cse111Task1.dll
+C:\Users\HUAWEI MateBook D16\Cse111Task1\obj\Debug\net10.0\refint\Cse111Task1.dll
+C:\Users\HUAWEI MateBook D16\Cse111Task1\obj\Debug\net10.0\Cse111Task1.pdb
+C:\Users\HUAWEI MateBook D16\Cse111Task1\obj\Debug\net10.0\Cse111Task1.genruntimeconfig.cache
+C:\Users\HUAWEI MateBook D16\Cse111Task1\obj\Debug\net10.0\ref\Cse111Task1.dll
